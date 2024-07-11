@@ -26,7 +26,7 @@ def Numbering_Screenshots():
 #Screenshots are all saved as .png files.
             if img.endswith(".png"):
 #The format of the screenshots is Screenshot().png, so we use the index of the img
-#in the directory list, while adding 1 to compensate for the 0 index.
+#in the directory list.
                 os.rename(img, f"Screenshot({directory.index(img)}).png")
         print("Renumbering Completed.")
 #If an error occurs, print the error message.    
