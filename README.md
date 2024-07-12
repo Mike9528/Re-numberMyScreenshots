@@ -1,5 +1,6 @@
 # Re-numberMyScreenshots
-This is to compensate for deletions in the screenshot directory.
-This will rename the files in ascending order. 
-Currently, it doesn't maintain the original order, which
-needs to be corrected.
+This program is designed to compensate for deletions in the 
+screenshot directory. It will rename the files in ascending order,
+maintaining a natural order of remaining screenshots in your 
+directory. 
+Version 2.0 is functional.
