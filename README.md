@@ -15,3 +15,6 @@ Created a project in "Issues" for further development.
 Version 4.0 includes the space between the word Screenshot and the 
 numbering that I had left out of the regex pattern. I had interpreted the
 default pattern without it originally.
+
+Reorder-Thru-CMD.py tested and added. This script is functional.
+Designed to fix the issue. The issue persists.
